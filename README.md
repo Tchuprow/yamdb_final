@@ -1,6 +1,6 @@
 
 
-![example workflow](https://github.com/Tchuprow/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
+![example workflow](https://github.com/Tchuprow/yamdb_final/actions/workflows/yamdb_workflow.yaml/badge.svg)
 
 my ip 158.160.36.70
 
@@ -53,12 +53,6 @@ DB_PORT=5432
 
 
 ### Как запустить проект:
-
-Собрать контейнер и запустить:
-
-```
-docker-compose up -d --build 
-```
 
 Выполнить миграции:
 
