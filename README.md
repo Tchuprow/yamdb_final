@@ -2,7 +2,7 @@
 
 ![example workflow](https://github.com/Tchuprow/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
 
-ip 158.160.36.70
+my ip 158.160.36.70
 
 # api_yamdb
 
